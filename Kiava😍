@@ -35,3 +35,9 @@ vless://e161d371-bf3f-4f2c-b562-4b09461f43c4@13.melov2ray.store:443?encryption=n
 -----
 (Armanibash)
 vless://020601e5-b7d6-43f2-ab41-837b9fbea6a4@104.31.16.61:443/?type=ws&encryption=none&host=sharivar.hub.iranserver.askdhbasikjbas.shop&path=%2F%40AB_VPN_Bot&security=tls&sni=sharivar.hub.iranserver.askdhbasikjbas.shop&alpn=h2%2Chttp%2F1.1&fp=chrome#%40AB_VPN_Bot%20Telagram%20Sharivar%20mah
+----
+----
+(Parsa)
+vless://Parsashonam-6@Mtn1.Tel-Parsashonam.Website:2083?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mtn
+vless://Parsashonam-6@Mci0.Tel-Parsashonam.Website:2087?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mci
+vless://Parsashonam-6@Cloud.Tel-Parsashonam.Website:2096?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-All
