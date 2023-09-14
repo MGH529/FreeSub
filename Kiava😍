@@ -47,12 +47,13 @@ vless://4fe8a1f7-67c7-4440-af7e-4df491f811d5@mtn.melov2ray.store:443?security=tl
 ----
 (Parsa)
 
-vless://--Parsashonam--@1.tel-parsashonam.website:444?security=reality&sni=www.speedtest.net&fp=chrome&pbk=B_dNc64x4mVB29Ss97IiVdmknoZvSdy5CwLGHDim3yI&sid=e1182996&spx=/&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,&encryption=none#@Parsashonam+%F0%9F%87%A9%F0%9F%87%AA-All
-vless://Parsashonam-8@cloud.tel-parsashonam.website:443?security=tls&sni=Usa1.Parsashonam.Tech&type=grpc&serviceName=@Parsashonam&encryption=none#@Parsashonam%F0%9F%87%BA%F0%9F%87%B2-All
-vless://Parsashonam-8@mci0.tel-parsashonam.website:2053?security=tls&sni=Usa1.Parsashonam.Tech&type=grpc&serviceName=@Parsashonam&encryption=none#@Parsashonam%F0%9F%87%BA%F0%9F%87%B2-Mci
-vless://Parsashonam-8@mtn1.tel-parsashonam.website:2096?security=tls&sni=Usa1.Parsashonam.Tech&type=grpc&serviceName=@Parsashonam&encryption=none#@Parsashonam%F0%9F%87%BA%F0%9F%87%B2-Mtn
-vless://Parsashonam-8@cloud.tel-parsashonam.website:2096?security=tls&sni=De1.Parsashonam.Tech&type=grpc&serviceName=@Parsashonam&encryption=none#@Parsashonam%F0%9F%87%A9%F0%9F%87%AA-All
-vless://Parsashonam-8@mci0.tel-parsashonam.website:2087?security=tls&sni=De1.Parsashonam.Tech&type=grpc&serviceName=@Parsashonam&encryption=none#@Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mci
-vless://Parsashonam-8@mtn1.tel-parsashonam.website:2083?security=tls&sni=De1.Parsashonam.Tech&type=grpc&serviceName=@Parsashonam&encryption=none#@Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mtn
+vless://--Parsashonam--@1.Tel-Parsashonam.website:444?mode=gun&security=reality&encryption=none&pbk=hva4cp5njiWrkMVEqzi8KwxXDBAksbl5pLfUCJBjz3M&fp=chrome&spx=%2F&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,&sni=www.speedtest.net&sid=908fb82f#%40Parsashonam+%F0%9F%87%A9%F0%9F%87%AA-All
+vless://Parsashonam-9@Cloud.Tel-Parsashonam.Website:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Parsashonam&sni=Usa1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%BA%F0%9F%87%B2-All
+vless://Parsashonam-9@Mci0.Tel-Parsashonam.Website:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Parsashonam&sni=Usa1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%BA%F0%9F%87%B2-Mci
+vless://Parsashonam-9@Mtn1.Tel-Parsashonam.Website:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Parsashonam&sni=Usa1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%BA%F0%9F%87%B2-Mtn
+vless://Parsashonam-9@Cloud.Tel-Parsashonam.Website:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Parsashonam&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-All
+vless://Parsashonam-9@Mci0.Tel-Parsashonam.Website:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Parsashonam&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mci
+vless://Parsashonam-9@Mtn1.Tel-Parsashonam.Website:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Parsashonam&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mtn
+
 -----
 -----
