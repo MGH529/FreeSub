@@ -6,6 +6,7 @@ vmess://eyJhZGQiOiJmaTEueHYycmF5Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://365ff4c2-d22d-4aad-8e30-2377606f0708@michamrah.ddns.net:24389?mode=gun&security=reality&encryption=none&pbk=7vV1p0Jc7lTeF-gvXjdtJDCI9x5jif-13M1XK9l72Vg&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir&sid=73b0f837#Germany_Till_sep16
 vmess://eyJhZGQiOiJpbDEudnBuamFudGl0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZWE2ZjBiNi01MTRjLTExZWUtOTQ4NS0wMDE2M2M1MGRiNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdnBuamFudGl0IiwicG9ydCI6IjEwMDAwIiwicHMiOiJ2cG5qYW50aXRfdGlsbF8wOS8xOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://3ac075e3-ce87-49c3-b896-292417014547@test.vpnmoon.tk:8443?type=ws&path=%2F&security=tls&fp=&alpn=http%2F1.1%2Ch2%2Ch3#%40EzilaxVPN-fr3zcvhy
+vless://9be76514-76b5-4a94-b733-6094f95ae7b4@hhggcfgbbjjbb.ddns.net:31520?type=grpc&security=reality&serviceName=&fp=firefox&pbk=eX4nwKej6F8Wu75YsvhueiYFseIo00udaRTfB0Xv2Cs&sni=account.zula.ir&sid=f3b8b4c2&spx=/#100-German-108721615-76393
 -----
 -----
 (Kiava)
@@ -24,12 +25,12 @@ vless://beb7eade-bca7-4d97-9ac4-f13c6e32d178@cdn10.kiava.fun:443?encryption=none
 -----
 -----
 (Legendaryking)
-vless://ItsLegendaryking@49.12.189.56:443?security=reality&sni=vipremix.ir&fp=chrome&pbk=6gwDSMJwBXBLDYEjxULS_s7IJO_VKrHnbjH2g-0U01Y&sid=512a5c54&type=http&path=/&encryption=none#Legendaryking
-vless://ItsLegendaryking@49.13.82.12:443?security=reality&sni=mihanyas.ir&fp=chrome&pbk=Iu1FfzHcOmx88AHpcBJl4AatKeN_MyNbpZIfvZfocRI&sid=9121001c&spx=/&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#Reality+1
-vless://ItsLegendaryking@94.228.169.27:443?security=reality&sni=up.20script.ir&fp=chrome&pbk=CjulQ2qVIky7ImIfysgQhNX7s_drGLheCGSkVHcLZhc&sid=44ffc142&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#Reality+2
-vless://ItsLegendaryking@45.87.153.68:443?security=reality&sni=www.speedtest.net&fp=firefox&pbk=r1cBcjoBNxZzBWct7_lTNEXrwngRVw3hALzQWZaiUiM&sid=d6c431e6&spx=/&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#Reality+3
-vless://ItsLegendaryking@45.95.232.9:443?security=reality&sni=mihanyas.ir&fp=chrome&pbk=sYsRsrI1DR7BiJdT1rCqwF2yv5LkzZCRK61TGUl_Ow4&sid=b3d3a2bd&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#Reality+4
-vless://ItsLegendaryking@77.91.70.43:443?security=reality&sni=s4.mega.io&fp=chrome&pbk=hUDB06n5DSa5J5Soj5YD58oJjgIvGvsYRcHnDag5Jio&sid=3d0f3905&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#Reality+5
+
+vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&pbk=wacyj1v6LUYcKXlSQgCTFqxIUQNoUFbJf77HNfqF00g&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=bdc7af5d#Reality+1
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=qCZUdWQZ2H33vWXnOkG8NpxBeq3qn5QWXlfCOWBNkkc&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=up.20script.ir&sid=3400ba65#Reality+2
+vless://ItsLegendaryking@45.87.153.68:443?mode=gun&security=reality&encryption=none&pbk=B2XL7ZfuFWREvMibS57upGT-ASJNWEr8p182befgQEA&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=b103ecb0#Reality+3
+vless://ItsLegendaryking@45.95.232.9:443?mode=gun&security=reality&encryption=none&pbk=Qe98jIgGGXjghGfzkuyGFFjGOXPmbslg_SbIvk4ZdHA&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=fbee6355#Reality+4
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=fcMEwZpr8WtzAgTKbxA3MMy22A8nSmcp6RtMn4Hfg1s&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=b3888c26#Reality+5
 
 -----
 -----
